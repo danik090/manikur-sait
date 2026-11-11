@@ -1,0 +1,1 @@
+Добавить в assets/images: hero.jpg, nails1.jpg, nails2.jpg, nails3.jpg. Дополнительно: studio.jpg, master.jpg, about.jpg.
